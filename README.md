@@ -1,16 +1,8 @@
-# animal_biography
+# Animal_biography_App
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+      API | sqflite-Database
+      
+https://user-images.githubusercontent.com/111631451/198876430-b084b2f5-e513-4b62-8bda-5b74264dab37.mp4
+      
+<img src="https://user-images.githubusercontent.com/111631451/198875970-c2db9471-0241-4d38-824a-298e47ad06dd.png" style="height:500px"/>  <img src="https://user-images.githubusercontent.com/111631451/198876134-3c3ced37-4af5-4ae5-9083-df9d6dca31e7.png" style="height:500px"/>  <img src="https://user-images.githubusercontent.com/111631451/198876220-394f82be-f910-45cc-ba30-f436d3dcb91e.png" style="height:500px"/>  
